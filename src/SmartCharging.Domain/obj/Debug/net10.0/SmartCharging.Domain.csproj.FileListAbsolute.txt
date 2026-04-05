@@ -1,0 +1,11 @@
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/bin/Debug/net10.0/SmartCharging.Domain.deps.json
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/bin/Debug/net10.0/SmartCharging.Domain.dll
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/bin/Debug/net10.0/SmartCharging.Domain.pdb
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/SmartCharging.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/SmartCharging.Domain.AssemblyInfoInputs.cache
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/SmartCharging.Domain.AssemblyInfo.cs
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/SmartCharging.Domain.csproj.CoreCompileInputs.cache
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/SmartCharging.Domain.dll
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/refint/SmartCharging.Domain.dll
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/SmartCharging.Domain.pdb
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/ref/SmartCharging.Domain.dll

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SmartCharging.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SmartCharging.Application": "1.0.0",
+          "SmartCharging.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartCharging.Infrastructure.dll": {}
+        }
+      },
+      "SmartCharging.Application/1.0.0": {
+        "dependencies": {
+          "SmartCharging.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartCharging.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SmartCharging.Domain/1.0.0": {
+        "runtime": {
+          "SmartCharging.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartCharging.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartCharging.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartCharging.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
