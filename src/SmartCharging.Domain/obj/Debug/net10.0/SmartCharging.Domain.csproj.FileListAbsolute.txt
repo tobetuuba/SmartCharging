@@ -9,3 +9,4 @@
 /Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/refint/SmartCharging.Domain.dll
 /Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/SmartCharging.Domain.pdb
 /Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/ref/SmartCharging.Domain.dll
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/obj/Debug/net10.0/SmartCharging.Domain.sourcelink.json

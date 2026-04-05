@@ -111,3 +111,4 @@
 /Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/obj/Debug/net10.0/SmartCharging.Tests.pdb
 /Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/obj/Debug/net10.0/SmartCharging.Tests.genruntimeconfig.cache
 /Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/obj/Debug/net10.0/ref/SmartCharging.Tests.dll
+/Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/obj/Debug/net10.0/SmartCharging.Tests.sourcelink.json

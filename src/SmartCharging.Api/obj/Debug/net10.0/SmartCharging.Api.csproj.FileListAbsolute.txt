@@ -37,3 +37,4 @@
 /Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Api/obj/Debug/net10.0/SmartCharging.Api.pdb
 /Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Api/obj/Debug/net10.0/SmartCharging.Api.genruntimeconfig.cache
 /Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Api/obj/Debug/net10.0/ref/SmartCharging.Api.dll
+/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Api/obj/Debug/net10.0/SmartCharging.Api.sourcelink.json
