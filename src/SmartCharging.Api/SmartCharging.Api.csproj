@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SmartCharging.Application\SmartCharging.Application.csproj" />
-    <ProjectReference Include="..\SmartCharging.Infrastructure\SmartCharging.Infrastructure.csproj" />
+    <ProjectReference Include="../SmartCharging.Application/SmartCharging.Application.csproj" />
+    <ProjectReference Include="../SmartCharging.Infrastructure/SmartCharging.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

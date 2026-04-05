@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\SmartCharging.Domain\SmartCharging.Domain.csproj" />
+    <ProjectReference Include="../SmartCharging.Domain/SmartCharging.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

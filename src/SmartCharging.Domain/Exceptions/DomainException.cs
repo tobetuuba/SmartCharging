@@ -1,4 +1,4 @@
-namespace SmartCharging.Domain.DomainExceptions;
+namespace SmartCharging.Domain.Exceptions;
 
 public class DomainException : Exception
 {
