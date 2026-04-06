@@ -1,0 +1,33 @@
+using SmartCharging.Application.Interfaces;
+using SmartCharging.Domain.Entities;
+
+namespace SmartCharging.Infrastructure.Repositories;
+
+public class InMemoryChargeStationRepository : IChargeStationRepository
+{
+    private readonly Dictionary<Guid, ChargeStation> store = new();
+
+    public Task<ChargeStation?> GetByIdAsync(Guid id)
+    {
+        store.TryGetValue(id, out ChargeStation? station);
+        return Task.FromResult(station);
+    }
+
+    public Task AddAsync(ChargeStation station)
+    {
+        store[station.Id] = station;
+        return Task.CompletedTask;
+    }
+
+    public Task UpdateAsync(ChargeStation station)
+    {
+        store[station.Id] = station;
+        return Task.CompletedTask;
+    }
+
+    public Task DeleteAsync(Guid id)
+    {
+        store.Remove(id);
+        return Task.CompletedTask;
+    }
+}
