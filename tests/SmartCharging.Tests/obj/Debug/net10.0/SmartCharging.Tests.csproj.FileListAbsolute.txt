@@ -112,3 +112,6 @@
 /Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/obj/Debug/net10.0/SmartCharging.Tests.genruntimeconfig.cache
 /Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/obj/Debug/net10.0/ref/SmartCharging.Tests.dll
 /Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/obj/Debug/net10.0/SmartCharging.Tests.sourcelink.json
+/Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tugba/Documents/projects/SmartCharging/tests/SmartCharging.Tests/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll

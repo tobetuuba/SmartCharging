@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartCharging.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f2123b81c0ee4b5acc231feae460c90c59f570")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5098c86c6f5145ac08e415ad0fbcd0209915663d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartCharging.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartCharging.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
