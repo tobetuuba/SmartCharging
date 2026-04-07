@@ -1,0 +1,6 @@
+{
+  "SmartCharging.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tugba\/Documents\/projects\/SmartCharging\/src\/SmartCharging.Api",
+  "SmartCharging.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tugba\/Documents\/projects\/SmartCharging\/src\/SmartCharging.Application",
+  "SmartCharging.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tugba\/Documents\/projects\/SmartCharging\/src\/SmartCharging.Domain",
+  "SmartCharging.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tugba\/Documents\/projects\/SmartCharging\/src\/SmartCharging.Infrastructure"
+}
