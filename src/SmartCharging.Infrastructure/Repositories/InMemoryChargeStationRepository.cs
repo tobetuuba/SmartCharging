@@ -1,11 +1,12 @@
-using SmartCharging.Application.Interfaces;
+using System.Collections.Concurrent;
 using SmartCharging.Domain.Entities;
+using SmartCharging.Domain.Interfaces;
 
 namespace SmartCharging.Infrastructure.Repositories;
 
 public class InMemoryChargeStationRepository : IChargeStationRepository
 {
-    private readonly Dictionary<Guid, ChargeStation> store = new();
+    private readonly ConcurrentDictionary<Guid, ChargeStation> store = new();
 
     public Task<ChargeStation?> GetByIdAsync(Guid id)
     {
@@ -27,7 +28,7 @@ public class InMemoryChargeStationRepository : IChargeStationRepository
 
     public Task DeleteAsync(Guid id)
     {
-        store.Remove(id);
+        store.TryRemove(id, out _);
         return Task.CompletedTask;
     }
 }

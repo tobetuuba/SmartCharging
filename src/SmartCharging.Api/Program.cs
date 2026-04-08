@@ -1,6 +1,7 @@
 using SmartCharging.Application.Interfaces;
 using SmartCharging.Application.Services;
 using SmartCharging.Domain.Exceptions;
+using SmartCharging.Domain.Interfaces;
 using SmartCharging.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Diagnostics;
 

@@ -1,5 +1,6 @@
 using SmartCharging.Application.DTOs;
 using SmartCharging.Application.Interfaces;
+using SmartCharging.Domain.Interfaces;
 using SmartCharging.Domain.Entities;
 using SmartCharging.Domain.Exceptions;
 

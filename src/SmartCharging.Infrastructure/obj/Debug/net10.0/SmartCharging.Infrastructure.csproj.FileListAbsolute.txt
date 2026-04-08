@@ -14,5 +14,3 @@
 /Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Infrastructure/obj/Debug/net10.0/SmartCharging.Infrastructure.pdb
 /Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Infrastructure/obj/Debug/net10.0/ref/SmartCharging.Infrastructure.dll
 /Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Infrastructure/obj/Debug/net10.0/SmartCharging.Infrastructure.sourcelink.json
-/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Infrastructure/bin/Debug/net10.0/SmartCharging.Application.dll
-/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Infrastructure/bin/Debug/net10.0/SmartCharging.Application.pdb

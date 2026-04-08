@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     "net10.0": {
-      "SmartCharging.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "SmartCharging.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/SmartCharging.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SmartCharging.Application.dll": {}
-        }
-      },
       "SmartCharging.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -28,11 +15,6 @@
     }
   },
   "libraries": {
-    "SmartCharging.Application/1.0.0": {
-      "type": "project",
-      "path": "../SmartCharging.Application/SmartCharging.Application.csproj",
-      "msbuildProject": "../SmartCharging.Application/SmartCharging.Application.csproj"
-    },
     "SmartCharging.Domain/1.0.0": {
       "type": "project",
       "path": "../SmartCharging.Domain/SmartCharging.Domain.csproj",
@@ -41,7 +23,6 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "SmartCharging.Application >= 1.0.0",
       "SmartCharging.Domain >= 1.0.0"
     ]
   },
@@ -70,9 +51,6 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Application/SmartCharging.Application.csproj": {
-              "projectPath": "/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Application/SmartCharging.Application.csproj"
-            },
             "/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/SmartCharging.Domain.csproj": {
               "projectPath": "/Users/tugba/Documents/projects/SmartCharging/src/SmartCharging.Domain/SmartCharging.Domain.csproj"
             }

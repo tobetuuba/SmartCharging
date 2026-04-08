@@ -94,7 +94,6 @@
       },
       "SmartCharging.Infrastructure/1.0.0": {
         "dependencies": {
-          "SmartCharging.Application": "1.0.0",
           "SmartCharging.Domain": "1.0.0"
         },
         "runtime": {

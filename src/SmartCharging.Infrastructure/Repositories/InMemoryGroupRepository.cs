@@ -1,11 +1,12 @@
-using SmartCharging.Application.Interfaces;
+using System.Collections.Concurrent;
 using SmartCharging.Domain.Entities;
+using SmartCharging.Domain.Interfaces;
 
 namespace SmartCharging.Infrastructure.Repositories;
 
 public class InMemoryGroupRepository : IGroupRepository
 {
-    private readonly Dictionary<Guid, Group> store = new();
+    private readonly ConcurrentDictionary<Guid, Group> store = new();
 
     public Task<Group?> GetByIdAsync(Guid id)
     {
@@ -27,7 +28,7 @@ public class InMemoryGroupRepository : IGroupRepository
 
     public Task DeleteAsync(Guid id)
     {
-        store.Remove(id);
+        store.TryRemove(id, out _);
         return Task.CompletedTask;
     }
 }

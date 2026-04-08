@@ -1,6 +1,6 @@
 using SmartCharging.Domain.Entities;
 
-namespace SmartCharging.Application.Interfaces;
+namespace SmartCharging.Domain.Interfaces;
 
 public interface IChargeStationRepository
 {

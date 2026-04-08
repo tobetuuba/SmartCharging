@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="../SmartCharging.Domain/SmartCharging.Domain.csproj" />
-    <ProjectReference Include="../SmartCharging.Application/SmartCharging.Application.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
